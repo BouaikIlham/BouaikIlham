@@ -1,9 +1,10 @@
-### Hi I'm ilham 👋
+### Hi I'm ilham 
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
 ### Full-Stack Software Developer
-
+ <img align="right" height="250" width="300" src="https://user-images.githubusercontent.com/61317250/127886709-f76743c3-6258-4f05-a7b3-4996493ef0ee.png" />
 
 - 🔭 I’m currently working on different kinds of projects!!
 - 🌱 I’m currently learning on ![](https://img.shields.io/badge/Microverse-blueviolet)
@@ -35,8 +36,11 @@
 ### 📜 Certificates
 [HTML/CSS](https://www.credential.net/7f645a3b-b917-456d-8e5d-c2d8a1339ecc#gs.z4vw9y)
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ayushparikh-code/Ayushparikh-code/main/me.gif" width=400 height=340>
+  <img src="https://raw.githubusercontent.com/Ayushparikh-code/Ayushparikh-code/main/new.gif" height=340/>
+</p>      
       
-      
-      
+
       
       
